@@ -1,0 +1,21 @@
+
+.cat-image{
+    object-fit: contain;
+    width:100%;
+    height:90vh;
+}
+
+.btn {
+    width:100%;
+    height: 45px;
+    background-color: silver;
+    align-self: center;
+    border-width: 5px;
+    border-color: rgba(100,100,100,0.5);
+    color: white;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(250,250,100,0.5);
+}
